@@ -1,1 +1,1 @@
-# kmeans-fp
+# k-means
