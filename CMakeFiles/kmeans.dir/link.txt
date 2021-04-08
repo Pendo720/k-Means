@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -std=c++2a -g  -rdynamic CMakeFiles/kmeans.dir/src/main.cpp.o  -o kmeans  -lfmt -lmlpack -larmadillo 

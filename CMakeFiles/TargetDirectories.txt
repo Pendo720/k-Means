@@ -1,0 +1,3 @@
+/home/jadasusu/code/kmeans/CMakeFiles/rebuild_cache.dir
+/home/jadasusu/code/kmeans/CMakeFiles/edit_cache.dir
+/home/jadasusu/code/kmeans/CMakeFiles/kmeans.dir
